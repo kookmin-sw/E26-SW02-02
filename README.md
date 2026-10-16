@@ -57,6 +57,22 @@
   - 그들이 만들어가는 세상
   - 우리가 상상한 미래
   - 우리가 그리는 미래 그리고 나
+  - 7주차 III. 우리가 그려보는 미래
+    ### 🚀 미래 서비스 기획 프로젝트 — HoloBook
+
+**활동 주제:** 2040년, AR 안경과 햅틱 장갑을 활용한 디스플레이 없는 차세대 컴퓨팅 서비스
+
+**핵심 가치:** 휴대성, 작업 효율성, AI 기반 자세 관리
+
+HoloBook은 AR 안경을 통해 가상 디스플레이를 구현하고, 햅틱 장갑으로 가상 키보드와 인터페이스를 조작하는 미래형 컴퓨팅 서비스입니다.
+
+기존 노트북의 무게와 부피, 제한된 화면 크기, 장시간 사용에 따른 자세 문제를 개선하는 것을 목표로 합니다.
+
+#### 📂 프로젝트 결과물
+
+- [미래 서비스 캔버스](HoloBook/service-canvas.md)
+- [미래 장면 시각화](HoloBook/future-scene.jpg)
+- [기술 벤치마킹](HoloBook/benchmarking.md)
 
 - 각오와 소감 나누기 ✔️  
 
@@ -129,25 +145,5 @@ Syntax highlighted code block
 
 readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
 
-
-### 🚀 미래 서비스 기획 프로젝트 — HoloBook
-
-**활동 주제:** 2040년, AR 안경과 햅틱 장갑을 활용한 디스플레이 없는 차세대 컴퓨팅 서비스
-
-**핵심 가치:** 휴대성, 작업 효율성, AI 기반 자세 관리
-
-HoloBook은 AR 안경을 통해 가상 디스플레이를 구현하고, 햅틱 장갑으로 가상 키보드와 인터페이스를 조작하는 미래형 컴퓨팅 서비스입니다.
-
-기존 노트북의 무게와 부피, 제한된 화면 크기, 장시간 사용에 따른 자세 문제를 개선하는 것을 목표로 합니다.
-
-#### 📂 프로젝트 결과물
-
-- [미래 서비스 캔버스](HoloBook/service-canvas.md)
-- [미래 장면 시각화](HoloBook/future-scene.jpg)
-- [기술 벤치마킹](HoloBook/benchmarking.md)
-
-#### 🖼️ 미래 장면
-
-![HoloBook 미래 서비스](HoloBook/future-scene.jpg)
   
 
