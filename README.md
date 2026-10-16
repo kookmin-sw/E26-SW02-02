@@ -70,8 +70,8 @@ HoloBook은 AR 안경을 통해 가상 디스플레이를 구현하고, 햅틱 �
 
 #### 📂 프로젝트 결과물
 
- [미래 서비스 캔버스](HoloBook/service-canvas.md)
- [미래 장면 시각화](HoloBook/future-scene.jpg)
+ [미래 서비스 캔버스](HoloBook/service-canvas.md) | 
+ [미래 장면 시각화](HoloBook/future-scene.jpg) | 
  [기술 벤치마킹](HoloBook/benchmarking.md)
 
 - 각오와 소감 나누기 ✔️  
