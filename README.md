@@ -68,11 +68,10 @@ HoloBook은 AR 안경을 통해 가상 디스플레이를 구현하고, 햅틱 �
 
 기존 노트북의 무게와 부피, 제한된 화면 크기, 장시간 사용에 따른 자세 문제를 개선하는 것을 목표로 합니다.
 
+
 #### 📂 프로젝트 결과물
 
- [미래 서비스 캔버스](HoloBook/service-canvas.md) | 
- [미래 장면 시각화](HoloBook/future-scene.jpg) | 
- [기술 벤치마킹](HoloBook/benchmarking.md)
+[미래 서비스 캔버스](https://github.com/kookmin-sw/E26-SW02-02/blob/main/HoloBook/service-canvas.md) | [미래 장면 시각화](https://github.com/kookmin-sw/E26-SW02-02/blob/main/HoloBook/future-scene.jpg) | [기술 벤치마킹](https://github.com/kookmin-sw/E26-SW02-02/blob/main/HoloBook/benchmarking.md) | [프로젝트 포스터](https://github.com/kookmin-sw/E26-SW02-02/blob/main/HoloBook/project-poster.jpg)
 
 - 각오와 소감 나누기 ✔️  
 
